@@ -5,4 +5,4 @@ def TwoSum(arr, target):
                 print([i,j])
             else:
                 continue
-(TwoSum([3,3],6))
+(TwoSum([2, 4, 3, 5, 6, -2, 4, 7, 8, 9],7))
